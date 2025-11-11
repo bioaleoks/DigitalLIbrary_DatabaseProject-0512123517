@@ -1,2 +1,2 @@
 Alessia Plaitano matricola 0512123517
-Project for exam of Database
+Progetto realizzato per l'esame di Basi Di Dati
